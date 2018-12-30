@@ -1,0 +1,13 @@
+{
+  "name": "snippetin",
+  "version": "1.0.0",
+  "description": "SnippetIn - Personalize your snippets and bookmark your necessary links",
+  "main": "main.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Ikram - Ud - Daula",
+  "license": "ISC"
+}
